@@ -2,7 +2,7 @@ using System;
 public class ExceptionHandling{
     public static void ExceptionHandlingLesson(){
         Console.WriteLine("hi from exception");
-        /*
+        
         //try-catch
         bool looping=true;
         while (looping)
@@ -38,7 +38,7 @@ public class ExceptionHandling{
             Console.WriteLine($"the error is : {e.Message}");
         }
         Console.WriteLine(success ? "yes" : "no");
-        */
+        
         Console.WriteLine("Enter a number:");
         if (TryParse(Console.ReadLine(), out int result))
         {

@@ -9,7 +9,7 @@ public class Arrays{
         Console.Write("Enter number 2: ");
         nums[1] = Convert.ToInt32(Console.ReadLine());
 
-        //Console.WriteLine($"Number 1: {nums[0]}, Number 2: {nums[1]}");
+        Console.WriteLine($"Number 1: {nums[0]}, Number 2: {nums[1]}");
 
         //using for loop
         for (int i = 0; i <nums.Length; i++)

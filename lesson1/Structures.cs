@@ -40,7 +40,7 @@ public class Structures
     public static void StructuresLesson()
     {
         Console.WriteLine("Hi from structures");
-        /*
+        
         // Create a person using the Person struct
         Person person;
         person.Name = "Harsh";
@@ -57,6 +57,6 @@ public class Structures
         // Using ReturnPerson2 to get a Person struct and display the values
         Person personFromReturn = ReturnPerson2();
         Console.WriteLine($"My name is {personFromReturn.Name}, my age is {personFromReturn.Age}, and my birth year is {personFromReturn.Year}");
-        */
+        
     }
 }

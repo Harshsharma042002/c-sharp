@@ -6,7 +6,7 @@ public class String
 {
     public static void SwitchLesson()
     {
-        /*
+        
         // Usage of double backslash, @ in strings
         string path = "Harsh\\nSharma";
         string path1 = @"harsh" + "\nsharma";

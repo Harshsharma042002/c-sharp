@@ -2,7 +2,7 @@ using System;
 
 public class Functions
 {
-    /*
+    
     // Function with parameters (adds two integers)
     public static int sumAdd(int a, int b)
     {
@@ -74,7 +74,7 @@ public class Functions
     public static int CalculateArea(int width,int height){
         return (width*height)/2;
     }
-    */
+    
     public static int[] getArray(){
         Console.WriteLine("enter the number of elements to put in the array : ");
         int size=Convert.ToInt32(Console.ReadLine());
@@ -99,7 +99,7 @@ public class Functions
     public static void FunctionsLesson()
     {
         Console.WriteLine("Hi from functions");
-/*
+
         // Calling the sumAdd method
         int sumOf2 = sumAdd(5, 6);
         Console.WriteLine($"The sum of 2 numbers is: {sumOf2}");
@@ -134,7 +134,7 @@ public class Functions
         int height=ReadInt("enter the height ");
         int area=CalculateArea(width,height);
         Console.WriteLine($"the area of {width} and {height} is: {area}");
-        */
+        
         int[] userArr=getArray();
         int totalSum=calculateTotal(userArr);
         Console.WriteLine($"the sum of elements in the array : {totalSum}");

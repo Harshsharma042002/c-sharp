@@ -4,7 +4,7 @@ public class Dictionary{
     public static void DictionaryLesson(){
 
         Console.WriteLine("hi from dictionary");
-/*
+
         Dictionary<int,string>names=new Dictionary<int,string>{
             {1,"harsh"},{2,"gokul"},{3,"madhu"}
         };
@@ -23,7 +23,7 @@ public class Dictionary{
         Console.WriteLine("enter a key to find ");
         int checkKey=Convert.ToInt32(Console.ReadLine());
         if(names.ContainsKey(checkKey)) Console.WriteLine($"the value {checkKey} is present, it's value is {names[checkKey]}");
-        */
+        
 
         //add odd in oddList , even in evenList
         List<int>odd=new List<int>();
