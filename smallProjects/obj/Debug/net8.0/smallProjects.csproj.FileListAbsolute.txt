@@ -1,0 +1,15 @@
+C:\Users\harsh\OneDrive\Documents\learn\smallProjects\bin\Debug\net8.0\smallProjects.exe
+C:\Users\harsh\OneDrive\Documents\learn\smallProjects\bin\Debug\net8.0\smallProjects.deps.json
+C:\Users\harsh\OneDrive\Documents\learn\smallProjects\bin\Debug\net8.0\smallProjects.runtimeconfig.json
+C:\Users\harsh\OneDrive\Documents\learn\smallProjects\bin\Debug\net8.0\smallProjects.dll
+C:\Users\harsh\OneDrive\Documents\learn\smallProjects\bin\Debug\net8.0\smallProjects.pdb
+C:\Users\harsh\OneDrive\Documents\learn\smallProjects\obj\Debug\net8.0\smallProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\OneDrive\Documents\learn\smallProjects\obj\Debug\net8.0\smallProjects.AssemblyInfoInputs.cache
+C:\Users\harsh\OneDrive\Documents\learn\smallProjects\obj\Debug\net8.0\smallProjects.AssemblyInfo.cs
+C:\Users\harsh\OneDrive\Documents\learn\smallProjects\obj\Debug\net8.0\smallProjects.csproj.CoreCompileInputs.cache
+C:\Users\harsh\OneDrive\Documents\learn\smallProjects\obj\Debug\net8.0\smallProjects.sourcelink.json
+C:\Users\harsh\OneDrive\Documents\learn\smallProjects\obj\Debug\net8.0\smallProjects.dll
+C:\Users\harsh\OneDrive\Documents\learn\smallProjects\obj\Debug\net8.0\refint\smallProjects.dll
+C:\Users\harsh\OneDrive\Documents\learn\smallProjects\obj\Debug\net8.0\smallProjects.pdb
+C:\Users\harsh\OneDrive\Documents\learn\smallProjects\obj\Debug\net8.0\smallProjects.genruntimeconfig.cache
+C:\Users\harsh\OneDrive\Documents\learn\smallProjects\obj\Debug\net8.0\ref\smallProjects.dll
