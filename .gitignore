@@ -1,0 +1,12 @@
+*.exe
+*.dll
+*.pdb
+bin/
+obj/
+node_modules/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vscode/
+.idea/
